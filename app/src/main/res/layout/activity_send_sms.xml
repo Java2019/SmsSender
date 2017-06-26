@@ -23,8 +23,9 @@
                 android:layout_margin="5px"/>
         <Button
                 android:id="@+id/bSend"
-                android:layout_width="5px"
+                android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:layout_margin="5px"
                 android:text="Send"/>
     </LinearLayout>
     <LinearLayout
